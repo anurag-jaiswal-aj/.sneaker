@@ -23,3 +23,11 @@ cd .sneaker<br>
 
 Contribution:<br>
 Feel free to contribute by submitting a pull request or reporting issues. Any feedback to enhance the platform is appreciated.
+
+Screenshots:<br> ![Screenshot 2024-06-09 201217](https://github.com/anurag-jaiswal-aj/.sneaker/assets/144160916/0889c4e9-7fab-433d-bc75-68dbc2437ff3)
+![Screenshot 2024-06-09 201535](https://github.com/anurag-jaiswal-aj/.sneaker/assets/144160916/1258e5ee-f597-44c9-8e7b-370f3c72fad1)
+![Screenshot 2024-06-09 201331](https://github.com/anurag-jaiswal-aj/.sneaker/assets/144160916/a65e177b-5a69-48f9-9ec1-e675fc8e1ccc)
+![Screenshot 2024-06-09 201358](https://github.com/anurag-jaiswal-aj/.sneaker/assets/144160916/3ed9f608-82c1-42d3-9efa-22be49126eb0)
+![Screenshot 2024-06-09 201427](https://github.com/anurag-jaiswal-aj/.sneaker/assets/144160916/4f9d7012-568e-4aae-987f-7a05995532c8)
+![Screenshot 2024-06-09 201454](https://github.com/anurag-jaiswal-aj/.sneaker/assets/144160916/b0d4a7fc-0ff1-4406-a174-a0cc16e70f6a)
+
