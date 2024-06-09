@@ -3,7 +3,7 @@
 .sneaker is a stylish and user-friendly e-commerce website dedicated to sneaker enthusiasts. Inspired by popular sneaker brands like Puma, this project showcases a range of sneakers, providing an engaging and seamless shopping experience. Built using HTML, CSS, and JavaScript, .sneaker combines modern design with robust functionality, making it easy for users to browse, search, and purchase their favorite sneakers.
 
 Features:
-Responsive Design: Optimized for both desktop and mobile devices to provide a consistent user experience.
+Responsive Design: Optimized for both desktop and mobile devices to provide a consistent user experience. <br>
 Product Catalog: Browse a diverse collection of sneakers with high-quality images, detailed descriptions, and pricing information.
 Payment Integration: A secure payment tab that supports multiple payment methods, ensuring a smooth and safe transaction process.(UI only)
 User Authentication: Basic user login and registration system to enhance the shopping experience and allow for personalized features.
