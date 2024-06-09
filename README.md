@@ -10,6 +10,6 @@ User Authentication: Basic user login and registration system to enhance the sho
 Modern Aesthetics: Clean, modern, and minimalist design focusing on user experience and visual appeal.
 
 Technologies Used
-HTML: Structure of the website, including layout and elements.
+HTML: Structure of the website, including layout and elements.<br>
 CSS: Styling for aesthetics, including animations, transitions, and responsiveness.
 JavaScript: Interactivity, form validation, and dynamic content updates.
