@@ -16,7 +16,7 @@ JavaScript: Interactivity, form validation, and dynamic content updates.<br>
 
 Installation: <br>
 1. Clone the repository:<br>
-git clone <https://github.com/yourusername/.sneaker.git <br>>
+git clone "https://github.com/yourusername/.sneaker.git <br>"
 2. Navigate to the project directory:<br>
 cd .sneaker<br>
 3. Open index.html in your web browser to view the website.<br>
